@@ -7,7 +7,7 @@
 - Embeddigns: vector representation of real word objects such as words, texts, images and etc that capture the semantic meaning of words
 
 <div align="center">
-  <img src="Model.jpg" alt="Model" width="500"/>
+  <img src="Model.jpg" alt="Model" width="600"/>
 </div>
 
 There are several AI models that create these embeddings aim to make words that have a similar context close together within a mathematical space.
